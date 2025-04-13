@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #0d1117;
+  color: #c9d1d9;
+  padding: 2rem;
+}
+
+#presentacion h2 {
+  margin-top: 2rem;
+  font-size: 1.8rem;
+  color: #58a6ff;
+}
